@@ -1,12 +1,14 @@
-# Hi , I'm Erfan Bahrami
+#                       Hi , I'm Erfan Bahrami
 
-### a computer engineering student from Iran
+###                          a computer engineering student from Iran
 
 ![](https://komarev.com/ghpvc/?username=erfanbahrami&color=orange)
 
 ## 📈 GitHub Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfanbahrami&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanbahrami&layout=compact&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfanbahrami&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanbahrami&layout=compact&theme=gruvbox)
 
 
 
